@@ -80,3 +80,13 @@ body,
     @apply bg-background text-foreground;
   }
 }
+
+/* .mantine-Menu-dropdown {
+  margin-left: 8.5rem;
+} */
+
+@media (min-width: 768px) {
+  .mantine-Menu-dropdown {
+    margin-left: 8.5rem;
+  }
+}
